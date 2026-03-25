@@ -1,0 +1,22 @@
+{
+  "name": "Uber Driver",
+  "short_name": "Driver",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "description": "Uber Driver Clone Interface",
+  "icons": [
+    {
+      "src": "https://lh3.googleusercontent.com/u/0/d/1CnH0WESm8HoQPXvOn_FPqS4jpN1OykvE",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/u/0/d/1CnH0WESm8HoQPXvOn_FPqS4jpN1OykvE",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
